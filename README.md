@@ -1,5 +1,7 @@
 # Token Bucket
-Token Bucket Algorithm used for Computer Networks
+Token Bucket Algorithm used in Computer Networks.
+
+Token Bucket is better than Leaky Bucket since Token Bucket can support bursty data and it saves idle time by generating tokens.
 
 # Steps to run the program
 
